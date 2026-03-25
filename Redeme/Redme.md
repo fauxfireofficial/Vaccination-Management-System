@@ -204,12 +204,12 @@ A complete web-based system for child immunization tracking. Parents can registe
 ## 👤 Developer Information
 - **Name:** Muhammad Iqbal (Faux Fire)
 - **Project:** E-Project 2026
-- **Contact:** iqbal100q@gmail.com
+- **Contact:** fauxfireofficial@gmail.com
 
 DEVELOPER INFORMATION
 ===========================================
 Name     : Muhammad Iqbal
-Email    : iqbal100q@gmail.com
+Email    : fauxfireofficial@gmail.com
 Project  : Vaccination Management System (E-Project)
 Year     : 2026
 
