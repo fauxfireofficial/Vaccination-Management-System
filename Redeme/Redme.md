@@ -210,7 +210,6 @@ DEVELOPER INFORMATION
 ===========================================
 Name     : Muhammad Iqbal
 Email    : iqbal100q@gmail.com
-Phone    : 0316 2115711
 Project  : Vaccination Management System (E-Project)
 Year     : 2026
 
