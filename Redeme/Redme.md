@@ -190,7 +190,7 @@ A complete web-based system for child immunization tracking. Parents can registe
 ## 📸 Screenshots
 | Home Page | Admin Dashboard | Parent Dashboard |
 | :--- | :--- | :--- |
-| ![Home](/Assets/Home%20Page.png) | ![Admin](/Assets/Admin%20Deshboard.png) | ![Parent](/Assets/Parent%20Deshboard.png) |
+| ![Home](/Assets/Home.png) | ![Admin](/Assets/Admin%20Deshboard.png) | ![Parent](/Assets/Parent%20Deshboard.png) |
 
 ---
 
