@@ -164,6 +164,48 @@ Vaccination_Management_System/
 ├── vaccine_assistant.php
 └── vaccine_recommendation.php
 
+# 💉 Vaccination Management System (0-18 Years)
+**Live Demo:** [https://vaccination-management-system.page.gd](https://vaccination-management-system.page.gd)
+
+---
+
+## 📝 Project Overview
+A complete web-based system for child immunization tracking. Parents can register children, book appointments, and track vaccination history. Hospitals can manage appointments and update vaccination status. Admin has full control over users, hospitals, and system settings.
+
+## 🚀 Features
+- ✅ **Role-based Dashboards:** Dedicated panels for Parent, Hospital, and Admin.
+- ✅ **Security:** OTP Verification & Password Recovery.
+- ✅ **AI Assistant:** AI-Based vaccine recommendations for children.
+- ✅ **Reports:** CSV Export and automated Schedule PDF generation.
+- ✅ **Notifications:** Email alerts via PHPMailer.
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JS, Bootstrap 5
+- **Backend:** PHP 8.2 (Core)
+- **Database:** MySQL
+- **Libraries:** PHPMailer, TCPDF (for PDF reports)
+
+---
+
+## 📸 Screenshots
+| Home Page | Admin Dashboard | Parent Dashboard |
+| :--- | :--- | :--- |
+| ![Home](/Assets/Home%20Page.png) | ![Admin](/Assets/Admin%20Deshboard.png) | ![Parent](/Assets/Parent%20Deshboard.png) |
+
+---
+
+## ⚙️ Installation (Localhost)
+1. Clone the repository to `C:\xampp\htdocs\`.
+2. Start Apache and MySQL from XAMPP Control Panel.
+3. Import `vaccination_db.sql` via phpMyAdmin.
+4. Update `db_config.php` with your local credentials.
+5. Visit `http://localhost/Vaccination_Management_System`.
+
+## 👤 Developer Information
+- **Name:** Muhammad Iqbal (Faux Fire)
+- **Project:** E-Project 2026
+- **Contact:** iqbal100q@gmail.com
+
 DEVELOPER INFORMATION
 ===========================================
 Name     : Muhammad Iqbal
