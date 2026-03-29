@@ -1,7 +1,6 @@
 ===========================================
      VACCINATION MANAGEMENT SYSTEM
      (0-18 Years Child Immunization)
-===========================================
 
 PROJECT OVERVIEW
 ===========================================
@@ -213,6 +212,5 @@ Email    : fauxfireofficial@gmail.com
 Project  : Vaccination Management System (E-Project)
 Year     : 2026
 
-===========================================
         THANK YOU FOR REVIEWING
-===========================================
+
